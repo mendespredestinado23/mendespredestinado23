@@ -1,16 +1,18 @@
-## Hi there 👋
+## fala seus puto
+## predestinado nasceu para vencer 🤙🇦🇫
 
-<!--
-**mendespredestinado23/mendespredestinado23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pedro Mendes, famoso Rei do PJ5
 
-Here are some ideas to get you started:
+-Estudo [Alura](https://www.alura.com.br) com MARK do pong
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou desenvovendo no JavaScript
+
+-Utilizo esse espaço para a minha organização e compartilhamento para os meus projetos desenvolvidos
+
+### você pode entrar em contato comigo 📫
+
+pmendessilva2007@gmail.com
+
+@meendes__23
+
+![](https://media1.tenor.com/m/x3aDejIQd0sAAAAC/lula.gif)
